@@ -1,0 +1,2 @@
+# framesequence
+framesequence库，支持32位和64位加载本地和线上webp和gif动图
